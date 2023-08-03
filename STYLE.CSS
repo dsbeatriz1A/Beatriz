@@ -1,0 +1,24 @@
+@import url("styles/header.css");
+
+:root{
+    --cor-de-fundo: #FFE8E5;
+    --branco: #FFFFFF;
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+    < h1 Mederi Study</h1>
+}
+
+ h1{
+    background-color:rgb(248, 182, 234) ;
+    display: flex
+    justify-content: space-between;
+    align-items: center ;
+}
+
+.container{
+    display: flex;
+    align-items: center ;
+
+}

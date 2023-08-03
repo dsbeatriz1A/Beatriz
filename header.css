@@ -1,0 +1,18 @@
+cabeçalho__literatureclass {
+    width: 24px;
+    height: 24px; 
+    background-image:url("..img/menu.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    display:inline-block;
+}
+
+.cabeçalho {
+    background-color: var(--branco);
+
+}
+
+.container__image {
+    padding: 1em;
+
+}
